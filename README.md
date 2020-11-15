@@ -2,7 +2,7 @@
 
 https://expo.io/@oshriak/projects/oshri-shop
 
-1) download expo from the store
-2) enter to the link
-3) scan the QR code
-4) enjoy
+1) Download expo from the store
+2) Enter to the link
+3) Scan the QR code
+4) Enjoy!
